@@ -7,6 +7,7 @@ export default styles = StyleSheet.create({
       alignItems: 'center',
       justifyContent: 'center',
       backgroundColor: 'lightgrey',
+      paddingTop: 10,
     },
     titleContainer: {
       marginBottom: 20,
@@ -15,13 +16,12 @@ export default styles = StyleSheet.create({
       borderRadius: 10,
       borderWidth: 1,
       borderColor: 'black',
-      padding: 10,
     },
     verticalBar: {
       borderWidth: 1,
       backgroundColor: "white",
       borderColor: "black",
-      width: '50%',
+      width: '100%',
       alignItems: 'center',
       justifyContent: 'center',
       padding: 20,
