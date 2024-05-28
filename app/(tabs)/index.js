@@ -3,7 +3,7 @@ import { Link } from 'expo-router';
 import styles from '../styles';
 import { useState } from 'react';
 import * as ImagePicker from 'expo-image-picker';
-// import ImageViewer from '../imageViewer';
+
 
 export default function HomeScreen() {
 
